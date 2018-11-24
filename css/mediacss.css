@@ -179,55 +179,7 @@ div.sendmessage{
     display: inline-flex;
   justify-content: center;
 }
-p.name{
- color: orange;
- font-size: 20px; 
-   margin-top: 12px;
-   padding-left: 20px;
-}
-p.email{
-    color: orange;
- font-size: 20px; 
- padding-left:20px;
-}
-p.masse{
-    color: orange;
- font-size: 20px;
- padding-left:20px;
-}
-input.send-massage{
-    width: 80%;
-height: 40px;
-border-top: 0.5px solid #b1aeae;
-border-left: 3px solid #b1aeae;
-background: #f1f1f1;
-}
-div.thesendmessage{
-    padding-left: 20px;
-}
-input.emai{
-    border-top: 0.5px solid #b1aeae;
-border-left: 3px solid #b1aeae;
-height: 20px; 
-width: 80%;
-background: #f1f1f1;
-}
-input.nam{
-    width: 80%;
-    background: #f1f1f1;
-    border-top: 0.5px solid #b1aeae;
-border-left: 3px solid #b1aeae; 
-height: 20px;   
-}
-input.submit{
-    background: orange;
-    color: white;
-    border:none;
-    border-bottom: 2px solid #d38b06;
-    font-size: 15px;
-    width: 80px;
-    
-}
+
 p.subs{
   padding-left: 60%;
 }
