@@ -1,0 +1,290 @@
+ html, body {
+  margin: 0;
+  padding: 0;
+  width:100%; 
+overflow-x: hidden; }  
+   
+
+
+header{
+    display:inline-flex ;
+    padding: 3px;
+    
+}
+.rabbit{
+    height: 87px;
+    width: 222px;
+    margin-left: 100px;
+    
+}
+    
+div.res  {
+ display: inline-block;
+ margin-top: 60px;
+ margin-left: 400px;
+ letter-spacing: 1px;
+
+
+}
+
+
+ 
+
+
+img.orange{
+    height: 30%;
+    width: 100%;
+    border-top: 2px solid orange;
+    border-bottom: 3px solid orange;
+}
+div.info{
+    display: inline-flex;
+    border-bottom: 1px solid rgb(235, 233, 233);
+    width: 100%;
+    justify-content: center;     
+}
+div > div.text{
+    width: 263px;
+    height: 152px;  
+}
+p.read{ 
+    margin-top: 0;    
+   padding-left: 174px;
+}
+.text a.more{
+    color: orange;
+    text-decoration: none;
+}
+p.lorem{       
+    margin-bottom: 0;
+    width: 100%;
+}
+div > div.text2{
+    width: 263px;
+    height: 152px;
+   padding-left: 30px;
+}
+p.read1{ 
+    margin-top: 0;   
+    padding-left: 174px;
+}
+.text2 a.more1{
+    color: orange;
+    text-decoration: none;  
+}
+p.lorem1{       
+    margin-bottom: 0;
+    width: 100%;
+}
+div > div.text3{
+    width: 263px;
+    height: 152px;
+    padding-left: 30px;
+    
+}
+p.read2{ 
+    margin-top: 0;  
+    padding-left: 174px;
+}
+.text3 a.more2{
+    color: orange;
+    text-decoration: none;
+}
+p.lorem2{       
+    margin-bottom: 0;
+    width: 100%;
+}
+div > div.text4{
+    width: 263px;
+    height: 152px;
+    padding-left: 30px;
+    
+}
+p.read3{ 
+    margin-top: 0;  
+    padding-left: 174px;
+}
+.text4 a.more3{
+    color: orange;
+    text-decoration: none;
+}
+p.lorem3{       
+    margin-bottom: 0;
+    width: 100%;
+}
+p.sen{
+    text-align:center;
+}
+.meet{
+    color: orange;
+    border-bottom: 2px solid currentColor;
+   font-size: 250%;
+}
+p.hf{
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+a.hoof{
+    color: orange;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+}
+
+a.ceo{
+    color: orange;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+}
+a.dev{
+    color: orange;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif; 
+}
+p.dir{
+color: gray;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+font-size: 25px;
+padding-left: 265px;
+}
+p.sq{
+color: gray;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+font-size: 25px;
+padding-left: 270px;
+}
+div.teem{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+div.images{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+.hor{
+    border-radius: 50%;
+    width: 294px;
+    height: 294px;
+    border: 10px solid orange; 
+}
+div.krolik{
+    padding-left: 152px;
+}
+.rab{
+    border-radius: 50%;
+    width: 294px;
+    height: 294px;
+    border: 10px solid orange;
+}
+div.straus{
+    padding-left: 152px;
+}
+.str{
+    border-radius: 50%;
+    width: 294px;
+    height: 294px;
+    border: 10px solid orange; 
+}
+div.under{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+div.nor{
+    width: 264px; 
+    padding-left: 10px;   
+}
+div.go{
+    width: 250px;
+    padding-left: 220px;
+}
+div.bun{
+    width: 251px;
+    padding-left:220px; 
+}
+p.pod{color: #4b4b4b;
+    font-family: 'Gill Sans', 'Gill Sans MT',calibri light, 'Trebuchet MS', sans-serif;
+}
+p.pod1{color: #4b4b4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+}
+p.pod2{color: #4b4b4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri light, 'Trebuchet MS', sans-serif;
+}
+p.send{
+ text-align: center; 
+ line-height: 1; 
+}
+span.message{
+    color: orange;
+    border-bottom: 2px solid currentColor;
+    display: inline-block;
+    line-height: 0.95;
+   font-size: 300%;
+   margin-bottom: 10px;
+}
+div.sendmessage{
+    width: 100%;
+    display: inline-flex;
+  justify-content: center;
+}
+p.name{
+ color: orange;
+ font-size: 20px; 
+   margin-top: 12px;
+}
+p.email{
+    color: orange;
+ font-size: 20px; 
+}
+p.masse{
+    color: orange;
+ font-size: 20px;
+}
+input.send-massage{
+height: 40px;
+border-top: 0.5px solid #b1aeae;
+border-left: 3px solid #b1aeae;
+background: #f1f1f1;
+}
+div.thesendmessage{
+    padding-left: 20px;
+}
+input.emai{
+    border-top: 0.5px solid #b1aeae;
+border-left: 3px solid #b1aeae;
+height: 20px; 
+background: #f1f1f1;
+}
+input.nam{
+    background: #f1f1f1;
+    border-top: 0.5px solid #b1aeae;
+border-left: 3px solid #b1aeae; 
+height: 20px;   
+}
+input.submit{
+    background: orange;
+    color: white;
+    border:none;
+    border-bottom: 2px solid #d38b06;
+    font-size: 20px;
+    width: 100px;
+     
+}
+p.subs{
+  padding-left: 86%;
+}
+p.egorbo{
+    text-transform: uppercase;
+    color: white;
+    font-size: 35px;
+    margin-bottom: 0;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    background: orange;
+    border-bottom: 2px solid #af7302;
+}
